@@ -23,8 +23,6 @@ This project provides a respiratory health monitoring system using IoT technolog
 ### **Predicting Multivitamin Purchase**
 A machine learning model aimed at predicting the likelihood of a customer purchasing multivitamins based on various factors.
 
-### **Shared Spaces**
-An innovative platform designed to manage and optimize shared spaces for communities or organizations.
 
 ## **How to Use**
 1. Clone the repository:  
