@@ -12,7 +12,6 @@ Welcome to the **AKSHITHA-CHILUKA** repository. This collection showcases variou
 
 ## **Projects Overview**
 
-
 ### **Basic Encryptions and Decryption**
 This project includes implementations of basic encryption and decryption techniques to ensure data security.
 
