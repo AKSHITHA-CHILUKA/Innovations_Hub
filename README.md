@@ -1,6 +1,6 @@
 # **Innovations_Hub Repository**
 
-Welcome to the **AKSHITHA-CHILUKA** repository. This collection showcases various innovative projects ranging from encryption techniques to health monitoring systems. Below is an overview of each project.
+Welcome!! This collection showcases various innovative projects ranging from encryption techniques to health monitoring systems. Below is an overview of each project.
 
 ## **Table of Contents**
 - [Basic Encryptions and Decryption](#basic-encryptions-and-decryption)
